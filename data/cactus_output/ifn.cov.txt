@@ -1,0 +1,7 @@
+Genome, sitesCovered1Times, sitesCovered2Times, sitesCovered3Times, sitesCovered4Times, sitesCovered5Times, sitesCovered6Times, sitesCovered7Times, sitesCovered8Times, sitesCovered9Times, sitesCovered10Times, sitesCovered11Times, sitesCovered12Times, sitesCovered13Times, sitesCovered14Times
+Hsapie, 1000000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Mmuscu, 92116, 2964, 1525, 1522, 1519, 1513, 1513, 1513, 1513, 1513, 1424, 1271, 0, 0
+Rferru, 371174, 232140, 201992, 153592, 137307, 95963, 62724, 54440, 49659, 36137, 27114, 20547, 11825, 273
+Mmyoti, 274367, 101947, 75286, 62740, 58107, 41229, 25774, 0, 0, 0, 0, 0, 0, 0
+Pdisco, 327378, 196218, 173442, 126975, 86309, 58432, 26727, 17898, 12531, 0, 0, 0, 0, 0
+Ajamai, 299330, 201787, 172085, 113444, 90326, 65858, 33735, 26801, 24302, 19060, 16035, 12608, 0, 0
