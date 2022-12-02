@@ -1,8 +1,8 @@
 ((Mmuscu,Hsapie),(Rferru,(Mmyoti,(Pdisco,Ajamai))));
 
-Mmuscu data/Mmuscu.fa
-Hsapie data/Hsapie.fa
-Rferru data/Rferru.fa
-Mmyoti data/Mmyoti.fa
-Pdisco data/Pdisco.fa
-Ajamai data/Ajamai.fa
+Mmuscu data/fasta/Mmuscu.fa
+Hsapie data/fasta/Hsapie.fa
+Rferru data/fasta/Rferru.fa
+Mmyoti data/fasta/Mmyoti.fa
+Pdisco data/fasta/Pdisco.fa
+Ajamai data/fasta/Ajamai.fa
