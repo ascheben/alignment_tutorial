@@ -1,0 +1,8 @@
+((Mmuscu,Hsapie),(Rferru,(Mmyoti,(Pdisco,Ajamai))));
+
+Mmuscu data/Mmuscu.fa
+Hsapie data/Hsapie.fa
+Rferru data/Rferru.fa
+Mmyoti data/Mmyoti.fa
+Pdisco data/Pdisco.fa
+Ajamai data/Ajamai.fa
